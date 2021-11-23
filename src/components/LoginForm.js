@@ -54,6 +54,10 @@ function LoginForm() {
             <button type="submit" className="button">
               <span>Start chatting</span>
             </button>
+            <br />
+            <br />
+            PS : For testing username : person1 password : 1234 <br />
+            username : person2 password : 1212
           </div>
         </form>
         <h2 className="error">{error}</h2>
